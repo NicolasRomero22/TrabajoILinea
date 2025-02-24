@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+<<<<<<< HEAD
         Scanner scanner = new Scanner(System.in);
         int alcancia = 0;
         int valor;
@@ -11,6 +12,46 @@ public class Main {
         int moneda100 = 0;
         int moneda200 = 0;
         int moneda500 = 0;
+=======
+        System.out.println("Johana Castañeda");
+        System.out.println("26 años");
+        System.out.println("a");
+        System.out.println("a");
+        System.out.println("a");
+        System.out.println("a");
+        System.out.println("a");
+        System.out.println("a");
+        System.out.println("a");
+        System.out.println("a");
+        System.out.println("a");
+        System.out.println("a");
+        System.out.println("a");
+        System.out.println("a");
+        System.out.println("a");
+        System.out.println("a");
+
+
+
+        System.out.println("a");
+        System.out.println("a");
+        System.out.println("a");
+        System.out.println("a");
+
+        System.out.println("a");
+        System.out.println("a");
+        System.out.println("a");
+        System.out.println("a");
+        System.out.println("a");
+        System.out.println("a");
+        System.out.println("a");
+
+        System.out.println("Juan Nicolàs Romero");
+        System.out.println("23 años");
+
+        System.out.println("Johana Castañeda");
+        System.out.println("26 años");
+
+>>>>>>> c7a2190c66c06801dda512a7870f33243afbea1a
 
         do {
             System.out.println("Ingresa un valor para meter en la alcancía: ");
